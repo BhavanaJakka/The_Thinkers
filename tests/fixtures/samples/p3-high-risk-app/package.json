@@ -1,0 +1,25 @@
+{
+  "name": "p3-high-risk-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ejs": "3.1.6",
+    "minimist": "1.2.0",
+    "lodash": "4.17.15",
+    "axios": "0.21.1",
+    "node-fetch": "2.6.0",
+    "jsonwebtoken": "8.5.1",
+    "low-vuln-1": "1.0.0",
+    "low-vuln-2": "1.0.0",
+    "low-vuln-3": "1.0.0",
+    "safe-dep-1": "1.0.0",
+    "safe-dep-2": "1.0.0",
+    "safe-dep-3": "1.0.0",
+    "safe-dep-4": "1.0.0",
+    "safe-dep-5": "1.0.0",
+    "safe-dep-6": "1.0.0",
+    "safe-dep-7": "1.0.0",
+    "safe-dep-8": "1.0.0",
+    "safe-dep-9": "1.0.0"
+  }
+}

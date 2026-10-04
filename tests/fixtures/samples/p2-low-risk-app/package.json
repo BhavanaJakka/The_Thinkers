@@ -1,0 +1,17 @@
+{
+  "name": "p2-low-risk-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "moment": "2.24.0",
+    "lodash": "4.17.15",
+    "low-dep-1": "1.0.0",
+    "low-dep-2": "1.0.0",
+    "low-dep-3": "1.0.0",
+    "low-dep-4": "1.0.0",
+    "low-dep-5": "1.0.0",
+    "low-dep-6": "1.0.0",
+    "low-dep-7": "1.0.0",
+    "low-dep-8": "1.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "p4-trap-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.2",
+    "lodash.merge": "4.6.2",
+    "date-fns": "2.30.0",
+    "expresss": "1.0.0",
+    "lodassh": "1.0.0",
+    "safe-setup-tool": "file:vendor/safe-setup-tool",
+    "acme-agpl-lib": "file:vendor/acme-agpl-lib",
+    "acme-nolicense-lib": "file:vendor/acme-nolicense-lib",
+    "trap-dep-1": "1.0.0",
+    "trap-dep-2": "1.0.0",
+    "trap-dep-3": "1.0.0",
+    "trap-dep-4": "1.0.0",
+    "trap-dep-5": "1.0.0",
+    "trap-dep-6": "1.0.0",
+    "trap-dep-7": "1.0.0",
+    "trap-dep-8": "1.0.0",
+    "trap-dep-9": "1.0.0"
+  }
+}

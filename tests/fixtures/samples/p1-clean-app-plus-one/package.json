@@ -1,0 +1,17 @@
+{
+  "name": "p1-clean-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "clean-dep-1": "1.0.0",
+    "clean-dep-2": "1.0.0",
+    "clean-dep-3": "1.0.0",
+    "clean-dep-4": "1.0.0",
+    "clean-dep-5": "1.0.0",
+    "clean-dep-6": "1.0.0",
+    "clean-dep-7": "1.0.0",
+    "clean-dep-8": "1.0.0",
+    "clean-dep-9": "1.0.0",
+    "clean-dep-10": "1.0.0"
+  }
+}

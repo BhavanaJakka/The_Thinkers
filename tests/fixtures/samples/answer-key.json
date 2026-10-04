@@ -1,0 +1,39 @@
+{
+  "p1-clean-app": {
+    "total_deps": 70,
+    "vulns": 0,
+    "suspicious": 0,
+    "licenses": 0,
+    "verdict": "Safe"
+  },
+  "p2-low-risk-app": {
+    "total_deps": 70,
+    "vulns": 2,
+    "vulnerable_packages": ["moment", "lodash"],
+    "suspicious": 0,
+    "licenses": 0,
+    "verdict": "Low",
+    "ranking": ["moment", "lodash"]
+  },
+  "p3-high-risk-app": {
+    "total_deps": 79,
+    "vulns": 15,
+    "critical_vulns": 2,
+    "high_vulns": 10,
+    "low_vulns": 3,
+    "transitive_vulns": 6,
+    "suspicious": 0,
+    "licenses": 0,
+    "reachable_paths": 5,
+    "verdict": "Critical"
+  },
+  "p4-trap-app": {
+    "total_deps": 80,
+    "vulns": 0,
+    "suspicious": 2,
+    "suspicious_packages": ["expresss", "lodassh"],
+    "licenses": 2,
+    "license_findings": ["acme-agpl-lib", "acme-nolicense-lib"],
+    "verdict": "High"
+  }
+}
